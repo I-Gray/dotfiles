@@ -1,6 +1,6 @@
 # dotfiles
 
-Run `source master.sh`, to run all of the below scripts.
+Run `source master.sh` to run all of the below scripts.
 
 ### Sub scripts
 1. `brew.sh` - Installs, updates homebrew & installs my most frequently packages and casks
