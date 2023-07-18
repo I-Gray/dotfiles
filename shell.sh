@@ -58,6 +58,4 @@ cd ~
 git clone git@github.com:I-Gray/dotfiles.git .dotfiles
 cd .dotfiles
 
-
-
 echo "shell.sh script complete"
